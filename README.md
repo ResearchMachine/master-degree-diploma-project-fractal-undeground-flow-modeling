@@ -1,10 +1,9 @@
 # Modeling of Undeground Flow in Fractal Media (2018)
 **Project type:** Master Degree Diploma Project, Physical Modeling, Academic Research  
 **Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple_(software))  
-**Project Сode:** [Main Code.pdf]([https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/MainCode.pdf))   
-**Project Full Description** (in Russian): [Diploma.pdf]([https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/DiplomaText.pdf))  
-**Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University)  
-**NDA:** no limits
+**Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf)   
+**Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf)  
+**Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University) 
 
 ### I. Motivation
 Reservoir zones with impaired permeability can have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.
@@ -20,7 +19,7 @@ The problems of finding the Hausdorff permeability parameter from the pres-sure 
 
 ### III. Content
 **Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf)   
-**Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf) 
+**Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf)  
 **The project code contains 3 scripts**:
 1. Solution of fractal properties identification problem for a steady model;
 2. Solution of fractal properties identification problem for a non-steady model;

@@ -19,13 +19,14 @@ Key Results:
 
 ### III. Content
 
-Models of one-dimensional undeground flow in media with fractal properties are investigated. The main purpose of this work is to investigate several approaches of including fractal properties of medium into the filtration models. 
-The problems of finding the Hausdorff permeability parameter from the pres-sure value in the one-phase filtration models, that is derived in the view of the step function, are solved. Buckley-Leverett two-phase filtration models and capillary imbibition models are generalized with the usage of the power laws. Fractal differential calculus approach showed significant difference between the solutions of boundary value prob-lems for stationary filtration models with and without fractal geometry.
-
 The project code contains **3 scripts**:
 1. Solution of fractal properties identification problem for a steady model;
 2. Solution of fractal properties identification problem for a non-steady model;
 3. The Monte Carlo algorithm of the fractal mass function, construction of a continuously parameterized Koch curve.
+
+[(Project Description, in Russian)](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf) Models of one-dimensional undeground flow in media with fractal properties are investigated. The main purpose of this work is to investigate several approaches of including fractal properties of medium into the filtration models. 
+The problems of finding the Hausdorff permeability parameter from the pres-sure value in the one-phase filtration models, that is derived in the view of the step function, are solved. Buckley-Leverett two-phase filtration models and capillary imbibition models are generalized with the usage of the power laws. Fractal differential calculus approach showed significant difference between the solutions of boundary value prob-lems for stationary filtration models with and without fractal geometry.
+
 
 
 **Section 1** is devoted to a brief review of the main concepts and methods used in the work. The main models of filtration, the approach of taking into account the fractality of the medium through power laws, and differential calculus on a fractal set are described.

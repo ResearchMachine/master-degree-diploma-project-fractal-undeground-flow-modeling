@@ -1,7 +1,8 @@
 # Undeground Flow in Fractal Media Modeling 
+2018
 
 ### I. About. 
-Company: Ufa State Aviation Technical University (link), Master Degree Diploma Project. Programming language: Maple 18. Year: 2018.
+Company: Ufa State Aviation Technical University (link), Master Degree Diploma Project. Programming language: Maple 18. 
 Two approaches are considered for artificial examples: power-law approach, F^$\alpha$-approach. For the first case, the problem of determining new parameters is solved. For the second case, the model was deduced and physical consistency was shown.
 
 

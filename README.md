@@ -1,7 +1,7 @@
 # Undeground Flow in Fractal Media Modeling (2018)
 
 
-**Project type:**  Academic Research, Physical Modeling, Master Degree Diploma Project.  
+**Project type:**  Physical Modeling, Master Degree Diploma Project, Academic Research.  
 **Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple_(software)).  
 **Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University).  
 

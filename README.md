@@ -3,20 +3,21 @@
 **Company:** Ufa State Aviation Technical University (link), Master Degree Diploma Project.  
 **Programming language:** Maple 18. 
 
-### I. Motivation.
-Reservoir zones with impaired permeability can, like many other systems with a disordered structure, have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.
+### I. Motivation
+Reservoir zones with impaired permeability can have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.
 
-The main advantage of the work is the development of the theory of filtration in media with fractal characteristics.
+### II. Brief 
 
-### II. Brief. 
+Two approaches of taking into account the fractal properties are considered: 
+1. Power-law approach;  
+2. Fractal calculus approach (https://arxiv.org/abs/0906.0676).
+   
+Key Results: 
+* For power-law approach, the problem of determining new parameters is solved;  
+* For fractal calculus approach, the model was deduced and physical consistency was shown.  
 
-Two approaches are considered for artificial examples: 1. power-law approach, 2. fractal calculus approach (https://arxiv.org/abs/0906.0676).  
-**Key results:**  
-* For the first case, the problem of determining new parameters is solved.  
-* For the second case, the model was deduced and physical consistency was shown.  
 
-
-### III. Content.
+### III. Content
 
 Models of one-dimensional undeground flow in media with fractal properties are investigated. The main purpose of this work is to investigate several approaches of including fractal properties of medium into the filtration models. 
 The problems of finding the Hausdorff permeability parameter from the pres-sure value in the one-phase filtration models, that is derived in the view of the step function, are solved. Buckley-Leverett two-phase filtration models and capillary imbibition models are generalized with the usage of the power laws. Fractal differential calculus approach showed significant difference between the solutions of boundary value prob-lems for stationary filtration models with and without fractal geometry.

@@ -9,7 +9,7 @@
 Reservoir zones with impaired permeability can have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.
 
 ### II. Key Results 
-* Two approaches of taking into account the fractal properties are considered; 
+* Two approaches of taking into account the fractal properties are considered: power law approach, fractal calculus approach; 
 * For power-law approach, the problem of determining new parameters is solved;  
 * For fractal calculus approach (https://arxiv.org/abs/0906.0676), the model was deduced and physical consistency was shown.  
 

@@ -22,6 +22,8 @@ The problems of finding the Hausdorff permeability parameter from the pres-sure 
 
 
 ### III. Content
+**Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf)   
+**Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf) 
 
 **Section 1** is devoted to a brief review of the main concepts and methods used in the work. The main models of filtration, the approach of taking into account the fractality of the medium through power laws, and differential calculus on a fractal set are described.
 

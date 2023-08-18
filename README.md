@@ -6,6 +6,7 @@
 **Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf)   
 **Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf)  
 **Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University)  
+**NDA:** no limits
 
 ### I. Motivation
 Reservoir zones with impaired permeability can have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.

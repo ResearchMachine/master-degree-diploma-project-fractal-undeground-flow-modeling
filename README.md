@@ -1,9 +1,9 @@
 # Undeground Flow in Fractal Media Modeling (2018)
 
 
-**Project type:** Master Degree Diploma Project, Physical Modeling, Academic Research.  
-**Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple_(software)).  
-**Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University).  
+**Project type:** Master Degree Diploma Project, Physical Modeling, Academic Research  
+**Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple_(software))  
+**Company:** [Ufa State Aviation Technical University](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University)  
 
 ### I. Motivation
 Reservoir zones with impaired permeability can have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.

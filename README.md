@@ -3,18 +3,17 @@
 **Company:** Ufa State Aviation Technical University (link), Master Degree Diploma Project.  
 **Programming language:** Maple 18. 
 
-### I. About. 
-
-Two approaches are considered for artificial examples: power-law approach, fractal calculus approach (https://arxiv.org/abs/0906.0676). For the first case, the problem of determining new parameters is solved. For the second case, the model was deduced and physical consistency was shown.
-
-
-
-
-
-### II. Motivation.
+### I. Motivation.
 Reservoir zones with impaired permeability can, like many other systems with a disordered structure, have fractal properties. Thus, the relevance of the chosen research topic is the benefit of taking into account the fractal properties of the medium in poorly permeable reservoir zones.
 
 The main advantage of the work is the development of the theory of filtration in media with fractal characteristics.
+
+### II. Brief. 
+
+Two approaches are considered for artificial examples: 1. power-law approach, 2. fractal calculus approach (https://arxiv.org/abs/0906.0676).  
+**Key results:**  
+* For the first case, the problem of determining new parameters is solved.  
+* For the second case, the model was deduced and physical consistency was shown.  
 
 
 ### III. Content.

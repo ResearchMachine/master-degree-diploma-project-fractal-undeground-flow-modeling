@@ -1,5 +1,4 @@
 # Undeground Flow in Fractal Media Modeling 
-(Master Degree Diploma Project)
 
 ### I. About. 
 Company: Ufa State Aviation Technical University (link), Master Degree Diploma Project. Programming language: Maple 18. Year: 2018.

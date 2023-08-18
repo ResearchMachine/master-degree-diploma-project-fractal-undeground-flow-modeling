@@ -4,8 +4,7 @@
 Company: Ufa State Aviation Technical University (link), Master Degree Diploma Project. Programming language: Maple 18. Year: 2018.
 Two approaches are considered for artificial examples: power-law approach, F^$\alpha$-approach. For the first case, the problem of determining new parameters is solved. For the second case, the model was deduced and physical consistency was shown.
 
-Models of one-dimensional undeground flow in media with fractal properties are investigated. The main purpose of this work is to investigate several approaches of includ-ing fractal properties of medium into the filtration models. 
-The problems of finding the Hausdorff permeability parameter from the pres-sure value in the one-phase filtration models, that is derived in the view of the step function, are solved. Buckley-Leverett two-phase filtration models and capillary imbibition models are generalized with the usage of the power laws. Fractal differential calculus ap-proach showed significant difference between the solutions of boundary value prob-lems for stationary filtration models with and without fractal geometry.
+
 
 
 
@@ -16,6 +15,9 @@ The main advantage of the work is the development of the theory of filtration in
 
 
 ### III. Content.
+
+Models of one-dimensional undeground flow in media with fractal properties are investigated. The main purpose of this work is to investigate several approaches of includ-ing fractal properties of medium into the filtration models. 
+The problems of finding the Hausdorff permeability parameter from the pres-sure value in the one-phase filtration models, that is derived in the view of the step function, are solved. Buckley-Leverett two-phase filtration models and capillary imbibition models are generalized with the usage of the power laws. Fractal differential calculus ap-proach showed significant difference between the solutions of boundary value prob-lems for stationary filtration models with and without fractal geometry.
 
 The project code contains 3 scripts:
 1. Solution of fractal properties identification problem for a steady model;

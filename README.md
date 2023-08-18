@@ -1,4 +1,4 @@
-# Undeground Flow in Fractal Media Modeling (2018)
+# Modeling of Undeground Flow in Fractal Media (2018)
 
 
 **Project type:** Master Degree Diploma Project, Physical Modeling, Academic Research  

@@ -30,7 +30,7 @@ The problems of finding the Hausdorff permeability parameter from the pres-sure 
 2. Solution of fractal properties identification problem for a non-steady model;
 3. The Monte Carlo algorithm of the fractal mass function, construction of a continuously parameterized Koch curve.
 
-**Section 1** is devoted to a brief review of the main concepts and methods used in the work. The main models of filtration, the approach of taking into account the fractality of the medium through power laws, and differential calculus on a fractal set are described.
+**The project description contains 4 sections**. **Section 1** is devoted to a brief review of the main concepts and methods used in the work. The main models of filtration, the approach of taking into account the fractality of the medium through power laws, and differential calculus on a fractal set are described.
 
 **Section 2** is devoted to the justification of the application of power laws in the geometric parameters of single-phase one-dimensional mathematical models of filtration in the case of a power trend in their distributions, using the example of the Cantor ladder. 2 boundary value problems for one-dimensional model (steady and non-steady case) of single-phase flow are considered. In the first case, a step function with a power trend is taken as the permeability. In the second case, the permeability is equal to a power function. Based on the solutions of these boundary value problems, the functional of the difference of solutions is constructed and minimized. 
 

@@ -1,5 +1,5 @@
 # Modeling of Undeground Flow in Fractal Media (2018)
-**Project type:** Master Degree Diploma Project, Physical Modeling, Academic Research  
+**Project Type:** Master Degree Diploma Project, Physical Modeling, Academic Research  
 **Programming Language:** [Maple 18](https://en.wikipedia.org/wiki/Maple_(software))  
 **Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf)   
 **Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf)  

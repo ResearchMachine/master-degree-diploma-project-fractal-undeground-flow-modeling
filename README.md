@@ -1,8 +1,9 @@
 # Undeground Flow in Fractal Media Modeling (2018)
 
-### I. About. 
 **Company:** Ufa State Aviation Technical University (link), Master Degree Diploma Project.  
 **Programming language:** Maple 18. 
+
+### I. About. 
 
 Two approaches are considered for artificial examples: power-law approach, fractal calculus approach (https://arxiv.org/abs/0906.0676). For the first case, the problem of determining new parameters is solved. For the second case, the model was deduced and physical consistency was shown.
 

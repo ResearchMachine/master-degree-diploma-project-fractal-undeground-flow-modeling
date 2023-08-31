@@ -17,7 +17,7 @@ The main purpose of this work is to investigate several approaches of including 
 * For fractal calculus approach, the model was deduced and physical consistency was shown.
 The problems of finding the Hausdorff permeability parameter from the pres-sure value in the one-phase filtration models, that is derived in the view of the step function, are solved. Buckley-Leverett two-phase filtration models and capillary imbibition models are generalized with the usage of the power laws. Fractal differential calculus approach showed significant difference between the solutions of boundary value prob-lems for stationary filtration models with and without fractal geometry.
 
-### III. Content
+### IV. Content
 **Project Сode:** [Main Code.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Main%20Code%20(Maple%2018).pdf)   
 **Project Full Description** (in Russian): [Diploma.pdf](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling/blob/main/Diploma%20.pdf)  
 **The project code contains 3 scripts**:
